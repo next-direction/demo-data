@@ -158,31 +158,6 @@
       "date": "2019-10-18 18:48:28",
       "message": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
       "user_id": 8
-    }, {
-      "id": 16,
-      "date": "2018-12-09 18:51:06",
-      "message": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-      "user_id": 1
-    }, {
-      "id": 17,
-      "date": "2019-10-15 08:13:12",
-      "message": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-      "user_id": 8
-    }, {
-      "id": 18,
-      "date": "2019-05-04 12:05:06",
-      "message": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-      "user_id": 7
-    }, {
-      "id": 19,
-      "date": "2019-02-18 14:44:50",
-      "message": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-      "user_id": 2
-    }, {
-      "id": 20,
-      "date": "2019-02-08 01:03:06",
-      "message": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-      "user_id": 4
     }
   ],
   "products":[
